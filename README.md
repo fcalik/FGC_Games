@@ -1,2 +1,2 @@
 # FGC_Games
-Github Exercises
+Github Exercises is a repository.
